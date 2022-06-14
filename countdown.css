@@ -1,0 +1,41 @@
+body {
+    background: url("./images/bg-image.jpg");
+    max-width: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.header{
+    margin-left: 70px;
+}
+
+.countdown {
+    /* display: flex; */
+    margin: 0 2rem;
+    margin-left: 40%;
+}
+
+.days {
+    margin: 0 4.5rem;
+}
+
+.hours {
+    margin: 0 4.5rem;
+}
+
+.minutes {
+    margin: 0 4.5rem;
+
+}
+
+.seconds {
+    margin: 0 4.5rem;
+}
+
+.numbers{
+    padding-left: 25%;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 100%;
+}
