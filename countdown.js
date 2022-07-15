@@ -5,7 +5,7 @@ const secondEl = document.getElementById("sec");
 
 
 
-const date = "3 July 2022";
+const date = "3 July 2023";
 
 function countdown() {
     const birthdate = new Date(date);
